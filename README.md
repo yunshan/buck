@@ -12,7 +12,6 @@ To build Buck, run the following:
     git clone git@github.com:facebook/buck.git
     cd buck
     ant
-    ./bin/buck --help
 
 License
 -------
